@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/elliot_alien" target="blank"><img src="https://img.shields.io/twitter/follow/elliot_alien?logo=twitter&style=for-the-badge" alt="elliot_alien" /></a> </p>
 
-- 🔭 I’m currently working on **Front-End Development**
+- 🔭 I’m currently working on **BackEnd Development**
 
-- 🌱 I’m currently learning **Ethical Hacking,Front-End Development**
+- 🌱 I’m currently learning **Ethical Hacking | Full Stack Developer**
 
 - 💬 Ask me about **Hacking or any tech related stuff 🤩**
 
