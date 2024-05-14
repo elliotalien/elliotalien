@@ -35,16 +35,6 @@
 ||
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/4bhijith"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="4bhijith" /></a></p>
-<br>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=elliotalien&show_icons=true&locale=en&layout=compact" alt="elliotalien" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elliotalien&show_icons=true&locale=en" alt="elliotalien" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=elliotalien&" alt="elliotalien" /></p>
-
-
 <h3 align="left" style="color: #3498db;">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/4bhijith"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="4bhijith" /></a></p>
 <br>
