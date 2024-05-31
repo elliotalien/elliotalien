@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **BackEnd Development (Node js, Express , MongoDB )**
 
-- 🌱 I’m currently learning **Ethical Hacking | Full Stack Developer**
+- 🌱 I’m currently learning **Ethical Hacking | Full Stack Development**
 
 - 💬 Ask me about **Hacking or any tech related stuff 🤩**
 
