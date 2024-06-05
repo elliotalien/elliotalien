@@ -47,7 +47,7 @@
 <table>
   <tr>
     <td>
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=elliotalien&show_icons=true&locale=en&layout=compact" alt="elliotalien" />
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=elliotalien&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="elliotalien" />
     </td>
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=elliotalien&show_icons=true&locale=en" alt="elliotalien" />
