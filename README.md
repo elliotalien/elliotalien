@@ -1,4 +1,6 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
+<img src="https://media.giphy.com/media/TqiwHbFBaZ4ti/giphy.gif?cid=790b76118fz9ff5gdcw1b57l59genmgljxw0i6lfapv3ce3g&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width: 1000px; height:200px; object-fit:cover"  alt="MasterHead">
+
 <h1 align="center">Hi 👋, I'm ABHIJITH P</h1>
 <h3 align="center">Ethical Hacker || Full Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elliotalien&label=Profile%20views&color=0e75b6&style=flat" alt="elliotalien" /> </p>
