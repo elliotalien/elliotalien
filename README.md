@@ -68,10 +68,10 @@
       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=elliotalien&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="elliotalien" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=elliotalien&show_icons=true&locale=en" alt="elliotalien" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=elliotalien&show_icons=true&locale=en&theme=tokyonight" alt="elliotalien" />
     </td>
     <td>
-      <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=elliotalien&" alt="elliotalien" />
+      <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=elliotalien&theme=tokyonight" alt="elliotalien" />
     </td>
   </tr>
 </table>
