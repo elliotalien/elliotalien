@@ -17,11 +17,6 @@
 
 - ⚡ hobbies **listening songs🎧,Watch Tv-series and Movies ,learn New hacking stuff**
 
-<h3> Wiglenet Badge </h3>
-<a href="https://wigle.net">
-<img border="0" src="https://wigle.net/bi/+Tm5NukY5ZWuTwZEdaczCw.png">
-</a>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,6 +36,21 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30" height="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="30" height="30"/> | | |
 ||
 
+## Badges
+<table>
+  <tr>
+    <th>WigleNet</th>
+      <th>TryHackMe</th>
+      </tr>
+  <tr>
+    <td>
+     <a href="https://wigle.net">
+<img border="0" src="https://wigle.net/bi/+Tm5NukY5ZWuTwZEdaczCw.png">
+</a>
+    </td>
+    <td> <img src="https://tryhackme-badges.s3.amazonaws.com/4bh1j1th.png" alt="TryHackMe"></td>
+  </tr>
+</table>
 
 
 
