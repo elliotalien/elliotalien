@@ -48,7 +48,7 @@
 <img border="0" src="https://wigle.net/bi/+Tm5NukY5ZWuTwZEdaczCw.png">
 </a>
     </td>
-    <td><iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1121205" style='border:none;'></iframe></td>
+    <td><img src="https://tryhackme-badges.s3.amazonaws.com/Elliotalien.png?update=2" alt="Your Image Badge"></td>
   </tr>
 </table>
 
