@@ -75,7 +75,3 @@
     </td>
   </tr>
 </table>
-
-
-
-[![streak](https://codeium.com/badges/v2/user/elliotalien/streak)](https://codeium.com/profile/elliotalien)
