@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Hacking or any tech related stuff 🤩**
 
-- 📫 How to reach me **mauabhijith08@gmail.com**
+- 📫 How to reach me **abhijith.codes@gmail.com**
 
 - ⚡ hobbies **listening songs🎧,Watch Tv-series and Movies ,learn New hacking stuff**
 
