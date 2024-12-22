@@ -51,7 +51,10 @@
     </td>
     <td><img src="https://tryhackme-badges.s3.amazonaws.com/Elliotalien.png?update=2" alt="Your Image Badge"></td>
     <a herf="https://www.credly.com/badges/df8f9700-443c-4e08-a624-608d67af0db4/public_url">
-    <td><img src="https://github.com/elliotalien/elliotalien/blob/main/python-essentials-1.1.png" alt="python badge" width="80"> </td>
+    <td>
+      <img src="https://github.com/elliotalien/elliotalien/blob/main/python-essentials-1.1.png" alt="python badge" width="80">
+      <img src="https://github.com/elliotalien/elliotalien/blob/main/python-essentials-2.png" alt="python badge" width="80">
+    </td>
     </a>
   </tr>
 </table>
